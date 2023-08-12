@@ -173,6 +173,6 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Souheila Sidennas | Email:()
+Souheila Sidennas | Email:(souheila.sidennas@gmail.com)
 
 Zakaria Khonchafi | Email:(44476801+zackkh@users.noreply.github.com)
